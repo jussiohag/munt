@@ -19,6 +19,20 @@ roland roms (random google link):
 * https://drive.google.com/drive/folders/0B5j-_ZMS8_UoY2MxOWRmMzktZmZhOS00M2EwLWFkZGItODNmODY4ZjU5Y2Vi?resourcekey=0-3GxLn7A7tvyl0sYvceflJA
 
 
+munt - part 2, install mt32emu_alsadrv
+* https://github.com/munt/munt/tree/master/mt32emu_alsadrv
+* + copy the above roms -> ... MT32_PCM.ROM, MT32_CONTROL.ROM
+* run mt32d -f ~/Desktop/git/munt/Roland \ROMs ... 
+
+configure dosbox: 
+* [midi] -> midiconfig=128:0
+* run installer for the game and set the audio to roland / mt32
+
+enjoy awesome mt_32 sounds
+
+
+
+---------------
 
 Main menu
 Skip to content
