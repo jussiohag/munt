@@ -1,0 +1,36 @@
+# GIT INSTRUCTIONS - NEW REPO
+
+# Import project
+git clone https://github.com/munt/munt
+
+
+# Create a new repository on the github
+--> github --> new repo --> munt
+
+# Create a new repository on the command line
+cd ~\Desktop\git\munt
+git init
+
+# Add project description (optional?)
+echo "# New project" >> README.md
+git add README.md
+git commit -m "first commit"
+git branch -M main
+
+# Push to github
+git remote add origin git@github.com:jussiohag/munt.git
+git push -u origin main
+
+
+
+
+
+
+# -----
+# Or push an existing repository from the command line
+git remote add origin git@github.com:jussiohag/new_project.git
+git branch -M main
+git push -u origin main
+
+# Or import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
