@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+a1273721dc4751830063f5ce8ccb04a1 CMakeFiles/mt32emu-qt_autogen
+87a4378f38edf2b2e66e03ac22c27da8 qrc_images.cpp
+3db6658f41b5a38bbbce034e4b474251 ui_AudioPropertiesDialog.h
+fe6f4b13f355a311ae1d20d46c4e2205 ui_MainWindow.h
+558b4717dac9414ff0ebb091377c2c54 ui_MidiConverterDialog.h
+b2b30ca92d61eca691906cb80681b254 ui_MidiPlayerDialog.h
+098237fc0e7ca19c6af690eb63664b63 ui_MidiPropertiesDialog.h
+1711fafbf218416890c365c011e0188e ui_ROMSelectionDialog.h
+d6009473631a6b781117c8c165bf426b ui_SynthPropertiesDialog.h
+06ecd28eae808b5a7ff8509fda7e0182 ui_SynthWidget.h

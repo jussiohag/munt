@@ -1,0 +1,9 @@
+/home/duncan/Desktop/git/munt/munt/mt32emu/CMakeFiles/mt32emu.dir
+/home/duncan/Desktop/git/munt/munt/mt32emu/CMakeFiles/package.dir
+/home/duncan/Desktop/git/munt/munt/mt32emu/CMakeFiles/package_source.dir
+/home/duncan/Desktop/git/munt/munt/mt32emu/CMakeFiles/edit_cache.dir
+/home/duncan/Desktop/git/munt/munt/mt32emu/CMakeFiles/rebuild_cache.dir
+/home/duncan/Desktop/git/munt/munt/mt32emu/CMakeFiles/list_install_components.dir
+/home/duncan/Desktop/git/munt/munt/mt32emu/CMakeFiles/install.dir
+/home/duncan/Desktop/git/munt/munt/mt32emu/CMakeFiles/install/local.dir
+/home/duncan/Desktop/git/munt/munt/mt32emu/CMakeFiles/install/strip.dir
