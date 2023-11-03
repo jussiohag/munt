@@ -15,7 +15,8 @@ dependencies:
 munt: 
 * https://askubuntu.com/questions/1404263/how-do-you-install-qt-on-ubuntu22-04
 
-
+roland roms (random google link): 
+* https://drive.google.com/drive/folders/0B5j-_ZMS8_UoY2MxOWRmMzktZmZhOS00M2EwLWFkZGItODNmODY4ZjU5Y2Vi?resourcekey=0-3GxLn7A7tvyl0sYvceflJA
 
 
 
